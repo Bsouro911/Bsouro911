@@ -2,7 +2,6 @@
 
 ----->⚠️ Under Construction <-----
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/biswassourojyoti.png" alt="Your Image Badge" />
 
 ### ✍️ Random Dev Quote
 
